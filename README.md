@@ -88,19 +88,22 @@ Hello! I'm **Sheauly Akhter**, a dedicated **Frontend Developer** who is passion
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheauly&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sheauly&theme=tokyonight" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheauly&layout=compact&theme=tokyonight" width="47%" />
-</p>
-
 ---
+📚 Languages Used
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiuly-28&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiuly-28&theme=github_dark" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shiuly-28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiuly-28&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
 
 ## 🏆 Achievements & Highlights
 
