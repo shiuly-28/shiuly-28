@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiuly Akhter</h1>
 <h3 align="center">🚀 Front-End Developer</h3>
 <p align="center">
-  <img src="https://i.ibb.co.com/5hztjYWW/Sheauly-Akhter-Front-End-Developer-2.png" />
+  <img src="https://i.ibb.co.com/C5Qvy8VQ/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner.png" />
 </p>
 
 
