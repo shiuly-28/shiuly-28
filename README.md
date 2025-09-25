@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sheauly Akhter</h1>
+<h1 align="center">Hi 👋, I'm Shiuly Akhter</h1>
 <h3 align="center">🚀 Front-End Developer</h3>
 <p align="center">
   <img src="https://i.ibb.co.com/5hztjYWW/Sheauly-Akhter-Front-End-Developer-2.png" />
@@ -101,6 +101,17 @@ Hello! I'm **Sheauly Akhter**, a dedicated **Frontend Developer** who is passion
 </p>
 
 ---
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shiuly-28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiuly-28&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
 
 ### 💡 Projects I'm Proud Of
 
