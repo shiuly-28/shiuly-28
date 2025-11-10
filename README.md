@@ -92,6 +92,10 @@ Hello! I'm **Sheauly Akhter**, a dedicated **Frontend Developer** who is passion
 📚 Languages Used
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiuly-28&layout=compact&theme=radical" alt="Top Languages" />
+ 
+</div>
+<div>
+   <img src="https://komarev.com/ghpvc/?username=shiuly-28&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ## 📊 GitHub Analytics
