@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I'm **Halima Akhter Shiuly** (Sheauly), a dedicated **Frontend Developer** from Bangladesh who is passionate about building high-performance and user-friendly web applications. I enjoy working with both frontend and backend technologies to deliver complete full-stack solutions that are clean, scalable, and efficient.
+Hello! I'm **Halima Akhter Shiuly** (Shiuly), a dedicated **Frontend Developer** from Bangladesh who is passionate about building high-performance and user-friendly web applications. I enjoy working with both frontend and backend technologies to deliver complete full-stack solutions that are clean, scalable, and efficient.
 
 - 🎓 Completed **Master's degree** from **Kishoreganj Government Gurudoyal College**
 - 💡 Continuous learner, currently deepening skills in backend development, security, and deployment strategies
