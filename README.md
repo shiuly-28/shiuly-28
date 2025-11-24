@@ -106,11 +106,12 @@ Hello! I'm **Halima Akhter Shiuly** (Shiuly), a dedicated **Frontend Developer**
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| 🍽️ Restaurant Management | Full-featured restaurant management system | React, Node.js, MongoDB | [View](#) |
+| 🍽️ Restaurant Management | Full-featured restaurant management system | React, Node.js, MongoDB | [View](https://management-restaurant-nine.vercel.app/) |
+| 🐶 Pet Adoption | Find and adopt your perfect pet | React, Express, MongoDB | [View](https://pet-adoption-pink.vercel.app/) |
 | 📦 Parcel Delivery | Real-time parcel tracking system | MERN Stack | [View](#) |
 | 🧑‍🤝‍🧑 Roommate Finder | Connect with potential roommates | React, Firebase | [View](#) |
 | 💼 Career Code | Job portal with advanced search | MERN Stack | [View](#) |
-| 🐶 Pet Adoption | Find and adopt your perfect pet | React, Express, MongoDB | [View](#) |
+
 
 </div>
 
