@@ -1,7 +1,7 @@
 # Hi 👋, I'm Halima Akhter Shiuly
 
 <div align="center">
-  <img src="[https://i.postimg.cc/7hSzFjLJ/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner.png](https://i.postimg.cc/XYd2P45p/shiuly.png)" alt="Banner" />
+  <img src="https://i.postimg.cc/7hSzFjLJ/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner.png]](https://i.postimg.cc/8zG19kYy/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner-(2).png)(https://i.postimg.cc/XYd2P45p/shiuly.png)" alt="Banner" />
 </div>
 
 <h3 align="center">🚀 Front-End Developer | MERN Stack Specialist | React Enthusiast</h3>
