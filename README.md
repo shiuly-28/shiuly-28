@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I'm **Halima Akhter Shiuly** (Shiuly), a passionate **Frontend Developer** specializing in **React.js, Next.js, TypeScript, and Tailwind CSS**. I also have experience with **Node.js** and **Express.js**, allowing me to build modern, responsive, and scalable web applications.
+Hello! I'm **Shiuly Akhter, a passionate **Frontend Developer** specializing in **React.js, Next.js, TypeScript, and Tailwind CSS**. I also have experience with **Node.js** and **Express.js**, allowing me to build modern, responsive, and scalable web applications.
 
 - 🎓 Completed **Master's degree** from **Kishoreganj Government Gurudoyal College**
 - 💡 Continuous learner, currently deepening skills in backend development, security, and deployment strategies
