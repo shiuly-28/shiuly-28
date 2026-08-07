@@ -1,4 +1,4 @@
-# Hi 👋, I'm Halima Akhter Shiuly
+# Hi 👋, I'm Shiuly Akhter
 
 <div align="center">
   <img src="https://i.postimg.cc/Wz4ZM6GG/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner-(1).png" alt="Banner" />
