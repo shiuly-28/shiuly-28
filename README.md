@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I'm **Halima Akhter Shiuly** (Shiuly), a dedicated **Frontend Developer** from Bangladesh who is passionate about building high-performance and user-friendly web applications. I enjoy working with both frontend and backend technologies to deliver complete full-stack solutions that are clean, scalable, and efficient.
+Hello! I'm **Halima Akhter Shiuly** (Shiuly), a passionate **Frontend Developer** specializing in **React.js, Next.js, TypeScript, and Tailwind CSS**. I also have experience with **Node.js** and **Express.js**, allowing me to build modern, responsive, and scalable web applications.
 
 - 🎓 Completed **Master's degree** from **Kishoreganj Government Gurudoyal College**
 - 💡 Continuous learner, currently deepening skills in backend development, security, and deployment strategies
